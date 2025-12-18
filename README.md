@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com  
+- GitHub: https://github.com/nonihal singh  
+- Email: nihaltomer9@gmail.com  
 
 ---
 
