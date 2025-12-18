@@ -1,4 +1,4 @@
-# 👋 Hi, I'm No Nihal Singh
+# 👋 Hi, I'm Nonihal Singh
 
 
 💻 Student | Aspiring Developer / Data Analyst  
