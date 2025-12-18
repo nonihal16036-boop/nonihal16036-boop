@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm No Nihal Singh
 
-<!--
-**nonihal16036-boop/nonihal16036-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Student | Aspiring Developer / Data Analyst  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Python, SQL, Excel, Data Analysis**
+- 📊 Interested in **AI, Machine Learning & Finance**
+- 🛠️ Love working on **real-world projects**
+- 🤝 Open to collaboration and learning
+
+---
+
+## 🧠 Skills
+- **Languages:** Python, SQL  
+- **Tools:** Excel, GitHub  
+- **Concepts:** Data Analysis, Databases, Basics of ML  
+
+---
+
+## 📂 Projects
+- 📈 Loan Approval Prediction (NBFC Dataset)
+- 🏥 Diabetes Prediction using AI
+- 🗃️ SQL Database Management Projects
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your-email@example.com  
+
+---
+
+⭐ *Thanks for visiting my profile!*
